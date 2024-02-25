@@ -1,3 +1,9 @@
+INTRODUTION:-   Predicting the Silent Threat: A Machine Learning Approach to Heart Attack Risk Assessment
+
+Heart attacks claim millions of lives globally, often striking with devastating suddenness. This project aims to leverage the power of machine learning to predict the risk of heart attacks, potentially saving lives through early intervention and preventive measures.We will embark on a journey to build a robust prediction model, utilizing data encompassing traditional risk factors like blood pressure, cholesterol, and family history, alongside emerging indicators like genetic markers and lifestyle habits. Cutting-edge machine learning algorithms will analyze this wealth of information, identifying hidden patterns and relationships that can shed light on individual susceptibility to heart attacks.Our goal is to create a user-friendly tool that empowers individuals to understand their personal risk profile. This tool will not only provide a risk score but also offer tailored recommendations for lifestyle changes and preventative actions, promoting proactive health management.
+
+
+
 ```python
 import pandas as pd
 import numpy as np
